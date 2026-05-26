@@ -16,9 +16,6 @@ CS student | Background in clothing & textile design | Interested in software de
   <li>
     🔭 I’m currently building my portfolio and will add it here soon.
   </li>
-  <li>
-    👁️ This spring, I explored image processing and computer vision methods in a course and found them very interesting.
-  </li>
 </ul>
 <br></br>
 
