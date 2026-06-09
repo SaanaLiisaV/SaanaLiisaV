@@ -2,7 +2,7 @@
 <h1>Hi, I'm Saana Virtanen</h1>
 
 <h3>
-CS student | Background in clothing & textile design | Interested in software development and UX
+CS student | Background in design | Interested in software development and UX
 </h3>
 
 
